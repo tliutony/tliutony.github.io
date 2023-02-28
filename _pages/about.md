@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CIS PhD candidate @ UPenn. #. Research Program Manager @ Roblox. #<a href='#'>Univeristy of Pennsylvania</a>. <a href='#'>Roblox</a>. 
+subtitle: CIS PhD candidate @ UPenn. Scientist/RPM @ Roblox. #<a href='#'>Univeristy of Pennsylvania</a>. <a href='#'>Roblox</a>. 
 #Address. Contacts. Moto. Etc.
 
 profile:
