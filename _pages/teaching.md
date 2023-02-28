@@ -2,11 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: #Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- Instructor, [CIS 1920: Python Programming](https://www.seas.upenn.edu/~cis1920/tliu/s23/), Spring 2023
+- [CTL Graduate Fellow for Teaching Excellence](https://ctl.upenn.edu/programs/grad-students/ctl-fellows/), 2021-2022
+- Instructor, CIS 192: Python Programming, Fall 2021
+- Instructor, CIS 192: Python Programming, Fall 2020
+- Co-author, [NMA causality tutorials](https://compneuro.neuromatch.io/tutorials/W3D5_NetworkCausality/student/W3D5_Tutorial1.html), [Neuromatch Academy](https://academy.neuromatch.io/) 2020
+- Lead TA, [CIS 520: Machine Learning](https://alliance.seas.upenn.edu/~cis520/wiki/), Fall 2019
