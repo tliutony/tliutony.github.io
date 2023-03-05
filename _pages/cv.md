@@ -20,20 +20,13 @@ Observational causal inference, machine learning, mental wellness.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018 - now`
+University of Pennsylvania. 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2012 - 2016`
+Williams College.
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+---
 
 ## Publications
 
