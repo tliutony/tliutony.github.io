@@ -14,7 +14,7 @@ cv_pdf: example_pdf.pdf
 
 ### Research Interests
 
-Observational causal inference, machine learning, mental wellness.
+Observational causal inference, machine learning, mental wellness, healthcare.
 
 ---
 
@@ -40,6 +40,7 @@ GPA: 3.99.
 
 - Instructor, [CIS 1920: Python Programming](https://www.seas.upenn.edu/~cis1920/tliu/s23/), Spring 2023
 - [CTL Graduate Fellow for Teaching Excellence](https://ctl.upenn.edu/programs/grad-students/ctl-fellows/), 2021-2022
+- CTL Teaching Certificate, 2021
 - Instructor, CIS 192: Python Programming, Fall 2021
 - Instructor, CIS 192: Python Programming, Fall 2020
 - Co-author, [NMA causality tutorials](https://compneuro.neuromatch.io/tutorials/W3D5_NetworkCausality/student/W3D5_Tutorial1.html), [Neuromatch Academy](https://academy.neuromatch.io/) 2020
@@ -72,6 +73,7 @@ GPA: 3.99.
 
 ## Peer-Reviewed Workshop Papers
 
+- W.3 liu2023rdsgd
 - W.2 liu2022datadriven
 - W.1 liu2021towardscotenable
 
@@ -92,14 +94,22 @@ GPA: 3.99.
 
 - P.1 liu2020covidpandemic
 
+## Talks
+
+- T.4 JSM: 
+- T.3 NMC 3.0: Quantifying Causality with Quasi-Experiments
+- T.2 Year of Brain Science Technology (yobst) 2020: Avoiding Overfitting using Automatic Machine Learning
+- T.1 Penn Big Data Conference: RDDs for clinical evaluation
+
 ---
 
 ## Student Mentees
 
-- 1 undergraduate student
-- 6 Master's students
+- 2 undergraduate students
+- 6 Masters students
 
 - Xinyue Wang (UPenn MSE '23): R.3
+- Dante Lokitiyakul (UPenn BS '23): R.3
 - Jesse Cui (UPenn BS '19): J.1
 - Harry Wang (UPenn MSE '21): J.5, J.7
 - Pooja Dattatri (UPenn MSE '23): A.4
@@ -119,10 +129,11 @@ GPA: 3.99.
 ## Awards
 
 - UPenn Center for Teaching and Learning Graduate Student Fellowship for Teaching Excellence ($6000 over 1 year)
-- SIGCSE Aspiring Teacher's Workshop Travel Grant ($500)
+- SIGCSE New and Aspiring Educators (SNAE) Professional Development Session Travel Grant ($500)
 - Ward Prize for best student project, Williams College Computer Science
 - Sam Goldburg Colloquium Prize for honors thesis defense, Williams College Computer Science
-- Dr. I.S. Dribben Award for dedication, sportsmanship, and perseverance, Williams College Golf Team
+- Dr. I.S. Dribben Award, Williams College Golf Team
+    - Awarded anually on the basis of dedication, sportsmanship, and perseverance.
 
 ---
 
