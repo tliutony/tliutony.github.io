@@ -96,6 +96,14 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+              
+              <!--- Hardcoded CV link --->
+              <li class="nav-item {% if page.title == p.title %}active{% endif %}">
+                <a class="nav-link" href="/assets/pdf/tony_liu_cv.pdf">cv
+                  {%- if page.title == p.title -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+              </a>
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->
