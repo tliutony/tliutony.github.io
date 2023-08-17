@@ -18,4 +18,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! My research sits at the intersection of causal inference and machine learning, with a focus on observational methods: how do we build an understanding of the world when we cannot run a randomized experiment? 
 
-I develop machine learning methods that incorporate traditional observational methodology in order to answer causal questions in complex data domains. Alongside my awesome collaborators, we use these methods across data science applications in public health, social communication, mental wellness, and medicine.
+I develop machine learning methods that improve traditional observational causal methodology in order to answer causal questions in complex data domains. Alongside my awesome collaborators, we use these methods across data science applications in public health, social communication, mental wellness, and medicine.
