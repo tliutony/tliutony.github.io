@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CIS PhD candidate @ UPenn. Scientist/RPM @ Roblox. #<a href='#'>Univeristy of Pennsylvania</a>. <a href='#'>Roblox</a>. 
+subtitle: CIS PhD candidate @ UPenn. Scientist/Research PM @ Roblox. #<a href='#'>Univeristy of Pennsylvania</a>. <a href='#'>Roblox</a>. 
 #Address. Contacts. Moto. Etc.
 
 profile:
@@ -19,3 +19,6 @@ social: true  # includes social icons at the bottom of the page
 Hello! My research sits at the intersection of causal inference and machine learning, with a focus on observational methods: how do we build an understanding of the world when we cannot run a randomized experiment? 
 
 I develop machine learning methods that improve traditional observational causal methodology in order to answer causal questions in complex data domains. Alongside my awesome collaborators, we use these methods across data science applications in public health, social communication, mental wellness, and medicine.
+
+In the classroom, I emphasize process-based learning through completion-graded assignments and continual student feedback throughout the lifecycle of a course. I believe in understanding students' individual starting points and engaging with them from there, being particularly mindful of those coming from diverse educational backgrounds outside of the sciences and engineering.
+
