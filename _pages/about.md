@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CIS PhD candidate @ UPenn. Scientist/Research PM @ Roblox. #<a href='#'>Univeristy of Pennsylvania</a>. <a href='#'>Roblox</a>. 
+subtitle: CIS PhD candidate @ UPenn, advised by <a href="https://www.cis.upenn.edu/~ungar/">Lyle Ungar</a> and <a href="https://kordinglab.com/">Konrad Kording</a>. Scientist/PM @ Roblox. #<a href='#'>Univeristy of Pennsylvania</a>. <a href='#'>Roblox</a>. 
 #Address. Contacts. Moto. Etc.
 
 profile:
