@@ -8,7 +8,7 @@ subtitle: <b>Assistant Professor of Computer Science @ Mount Holyoke College. Ph
 
 profile:
   align: right
-  image: prof_pic_sq.jpg
+  image: mhc_headshot_cropped.png #prof_pic_sq.jpg
   image_circular: false # crops the image to make it circular
   address: #> <p><center>Philadelphia, PA</p>
 
