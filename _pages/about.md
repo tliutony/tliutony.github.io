@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of Computer Science @ Mount Holyoke College. PhD @ UPenn, former Scientist/PM @ Roblox. #<a href='#'>Univeristy of Pennsylvania</a>. <a href='#'>Roblox</a>. 
+subtitle: <b>Assistant Professor of Computer Science @ Mount Holyoke College. PhD @ UPenn. Former Scientist/PM @ Roblox. Williams College '16.</b> #<a href='#'>Univeristy of Pennsylvania</a>. <a href='#'>Roblox</a>. 
 # advised by <a href="https://www.cis.upenn.edu/~ungar/">Lyle Ungar</a> and <a href="https://kordinglab.com/">Konrad Kording</a>.
 #Address. Contacts. Moto. Etc.
 
@@ -22,4 +22,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! My research sits at the intersection of causal inference and machine learning, with a focus on observational methods: how do we build an understanding of the world when we cannot run a randomized experiment? 
 
-I develop machine learning approaches that improve observational causal methodology in order to answer causal questions in complex data domains. Alongside my awesome collaborators, I use these methods across data science applications in public health, social communication, mental wellness, and medicine.
+I develop machine learning approaches that improve observational causal methodology in order to answer causal questions in complex data domains. Alongside my fantastic collaborators, I use these methods across data science applications in public health, social communication, mental wellness, and medicine.
