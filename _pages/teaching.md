@@ -9,8 +9,10 @@ nav_order: 2
 
 ## Mount Holyoke
 
-- [COMSC 341-CD: Causal Inference for Data Science](https://comsc341cd.github.io). Spring 2025, Fall 2025
-- [COMSC 205: Data Structures](https://comsc205.github.io). Fall 2024, Spring 2025, Fall 2025
+- [COMSC 335: Machine Learning](https://comsc335.github.io). Spring 2026
+- [COMSC 205: Data Structures](https://comsc205.github.io). Fall 2024, Spring 2025, Fall 2025, Spring 2026
+- [COMSC 341CD: Causal Inference for Data Science](https://comsc341cd.github.io). Spring 2025, Fall 2025
+
 
 ---
 
