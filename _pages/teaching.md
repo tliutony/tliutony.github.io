@@ -13,7 +13,6 @@ nav_order: 2
 - [COMSC 205: Data Structures](https://comsc205.github.io). Fall 2024, Spring 2025, Fall 2025, Spring 2026
 - [COMSC 341CD: Causal Inference for Data Science](https://comsc341cd.github.io). Spring 2025, Fall 2025
 
-
 ---
 
 ## UPenn
