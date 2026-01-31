@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Assistant Professor of Computer Science @ Mount Holyoke College. PhD @ UPenn. Former Scientist/PM @ Roblox. Williams College '16.</b> #<a href='#'>Univeristy of Pennsylvania</a>. <a href='#'>Roblox</a>. 
+subtitle: <b>Assistant Professor of Computer Science, Mount Holyoke College
+#PhD @ UPenn. Former Scientist/PM @ Roblox. Williams College '16.</b> #<a href='#'>Univeristy of Pennsylvania</a>. <a href='#'>Roblox</a>. 
 # advised by <a href="https://www.cis.upenn.edu/~ungar/">Lyle Ungar</a> and <a href="https://kordinglab.com/">Konrad Kording</a>.
 #Address. Contacts. Moto. Etc.
 
